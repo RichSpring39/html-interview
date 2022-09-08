@@ -4,6 +4,10 @@ background-color: aqua;
 padding: 25px;
 }
 
+#title {
+text-align: center;
+}
+
 li{
     margin: 10px;
     font-style: italic;
