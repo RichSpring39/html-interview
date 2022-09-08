@@ -1,0 +1,10 @@
+div {
+border: 50px solid blue;
+background-color: aqua;
+padding: 25px;
+}
+
+li{
+    margin: 10px;
+    font-style: italic;
+}
